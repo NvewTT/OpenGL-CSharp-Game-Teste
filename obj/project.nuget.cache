@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y81oqnaNiAoQjPlKDalAwaVGUytSj/IDEy6Me6ooph5NjBNAmmQK+lAbQjBMUl/BB0d7C+WRb2HGJc7Kun88gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel\\source\\repos\\GAME_TRAB\\GAME_TRAB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
